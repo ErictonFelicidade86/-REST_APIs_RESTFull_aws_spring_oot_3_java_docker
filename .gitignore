@@ -1,0 +1,39 @@
+*.class
+
+/node_modules
+
+# SSH Keys
+
+*.pem
+*.ppk
+
+# Mobile Tools for Java (J2ME)
+
+.mtj.tmp/
+
+#Packge Files #
+
+*.jar
+*.war
+*.ear
+
+# Gradle temporary Files
+
+target/
+
+#Eclipse files
+
+**/.project
+**/.classpath
+**/.setting/
+/bin/
+**/..tern-project
+
+#IntekliJ Files
+
+**/.iml
+**/.idea
+**/.grandle
+
+.metadata/
+
